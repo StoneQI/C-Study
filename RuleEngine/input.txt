@@ -1,0 +1,11 @@
+rule "conc_test" "test" 
+begin
+    conc  { 
+        a = 3.0
+        b = 4
+        c = 6.8
+        d = "hello world"
+        e = "you will be happy here!"
+    }
+    println(a, b, c, d, e)
+end
