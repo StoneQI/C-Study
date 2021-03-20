@@ -55,7 +55,16 @@
         "streambuf": "cpp",
         "any": "cpp",
         "map": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "typeindex": "cpp",
+        "shared_mutex": "cpp",
+        "iomanip": "cpp",
+        "codecvt": "cpp",
+        "bitset": "cpp",
+        "complex": "cpp",
+        "cstring": "cpp",
+        "cinttypes": "cpp",
+        "variant": "cpp"
     },
     "code-runner.executorMap": {
 
